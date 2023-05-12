@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "17e0f827-832c-4186-af97-4ac2dea31275",
+      "name": "Antor molla",
+      "email": "antor@prepmock.com"
+    },
+    {
+      "id": "882973d7-709f-4022-be0b-067086270b6b",
+      "name": "Ashraful",
+      "email": "ashraful@prepmock.com"
+    },
+    {
+      "id": "4a8f1b64-309e-4798-bd5a-7976e4b9f42e",
+      "name": "kamrul",
+      "email": "kamrul@outlook.com"
+    }
+  ]
+}
